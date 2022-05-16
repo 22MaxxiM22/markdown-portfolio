@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Learned in section #17 about :
+- working with Git tags ,
+- creating tags,
+- replacing and deleting tags,
